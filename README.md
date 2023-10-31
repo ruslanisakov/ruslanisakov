@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello! My name is Ruslan Isakov 👋
 
-<!--
-**ruslanisakov/ruslanisakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥 Experienced Senior Software Engineer with 5+ years of experience in software development in PHP 8 and PHP 7 using various technologies, databases. I have deep knowledge of the Laravel and Symfony frameworks. I adhere to the principles of SOLID, DDD, TDD, DRY, KISS and YAGNI.
 
-Here are some ideas to get you started:
+Technology stack: PHP, Laravel, Symfony, Docker, PostgreSQL, MySQL, MS SQL, Git, Github, CI/CD, RESTful API, Linux, HTML, CSS, JS (Ajax, jQuery), Bootstrap, Adaptive layout
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have public speaking and public speaking skills, which allows me to interact more successfully with colleagues and clients.
+
+I am a purposeful, energetic and conscientious person, constantly striving for professional and personal development. For me, “continuous learning is the key to success”
+
+In my free time I enjoy sports and travel, which gives me many unforgettable impressions and experiences.
+
+📄 Resume: https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony.pdf <br>
+💼 Portfolio: https://ruslanisakov.com/projects
