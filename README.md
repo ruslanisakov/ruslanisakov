@@ -13,7 +13,7 @@ https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony.pdf
 * Docker, RESTful API, Swagger
 * Git, github, CI/CD, Linux
 * MySQL, MS SQL, PostgreSQL 
-* HTML, CSS, Bootstrap, JS (Ajax, jQuery), Адаптивная верстка
+* HTML, CSS, Bootstrap, JS (Ajax, jQuery), Adaptive layout
 * PhotoShop, illustrator, AfterEffects
 
 
