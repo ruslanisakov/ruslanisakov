@@ -7,7 +7,7 @@ Projects: https://ruslanisakov.com/projects
 ## 📄 Resume
 https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony.pdf
 
-## 🖥 Technology stack
+## 🖥 Hard Skills
 * PHP (Laravel, Symfony), ООП, MVC
 * CleanCode, SOLID, DRY, KISS, YAGNI
 * Docker, RESTful API, Swagger
