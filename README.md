@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./linkedin-banner.png">
 
 # 👋 Hello! My name is Ruslan Isakov
 Experienced Senior Software Engineer with 5+ years of experience in software development in PHP 8 and PHP 7 using various technologies, databases. I have deep knowledge of the Laravel and Symfony frameworks. I adhere to the principles of SOLID, DDD, TDD, DRY, KISS and YAGNI.
