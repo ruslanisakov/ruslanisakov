@@ -26,4 +26,4 @@ Experienced Senior Software Engineer with 5+ years of experience in software dev
 * Working in uncertainty mode
 
 #### 💼 Projects: https://ruslanisakov.com/projects
-#### 📄 Resume: https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony.pdf
+#### 📄 Resume: https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony_RU.pdf
