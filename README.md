@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./linkedin-banner.png">
 
 # 👋 Hello! My name is Ruslan Isakov
 Senior Software Engineer with more than 5 years of commercial development experience using various modern technologies. I have deep knowledge of the Laravel and Symfony frameworks. I adhere to the principles of Clean Code, SOLID, DRY, KISS, YAGNI, and also apply development methods such as TDD and DDD principles. I have a higher education in software engineering. 
