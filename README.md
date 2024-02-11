@@ -7,6 +7,6 @@ I have public speaking and public speaking skills, which allows me to interact m
 I have been trained in many international organizations, such as: IUC, KECB, FoxmindEd, etc
 
 #### 🔗 More detailed information about skills and work experience can be found here:
-* 💼 <a href="https://ruslanisakov.com/projects" target="_blank">Portfolio of Works</a>
-* 🖥 <a href="https://www.linkedin.com/in/ruslanisakovcom" target="_blank">Linkedin</a> 
+* 🖥 <a href="https://www.linkedin.com/in/ruslanisakovcom" target="_blank">Linkedin</a>
 * 📄 <a href="https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony_RU.pdf" target="_blank">CV (RU version)</a> 
+* 💼 <a href="https://ruslanisakov.com/projects" target="_blank">Portfolio of Works</a>
