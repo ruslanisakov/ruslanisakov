@@ -130,23 +130,3 @@ I have been trained in many international organizations, such as: IUC, KECB, Fox
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="illustrator logo"  />
 </div>
-
-###
-
-<h2 align="left">Social</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ruslanisakovcom/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ruslanisakovcom/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-  </a>
-  <a href="t.me/ruslanisakovcom" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
-  </a>
-</div>
-
-###
