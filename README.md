@@ -8,9 +8,9 @@ I have been trained in many international organizations, such as: IUC, KECB, Fox
 <br><br>
 
 ## More detailed information about skills and work experience can be found here:
-<a href="https://www.linkedin.com/in/ruslanisakovcom/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ruslanisakovcom/" alt="LinkedIn" height="25"/></a>
-<a href="https://ruslanisakov.com/projects" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20with%20Works-gray?style=flat&logo=symfony&logoColor=white&link=https://ruslanisakov.com/projects" alt="Portfolio with Works" height="25"/></a>
-<a href="https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony_RU.pdf" target="_blank"><img src="https://img.shields.io/badge/CV%20(RU%20version)-ff0000?style=flat&logo=readdotcv&logoColor=white&link=https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony_RU.pdf" alt="CV (RU version)" height="25"/></a>
+<a href="https://www.linkedin.com/in/ruslanisakovcom/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ruslanisakovcom/" alt="LinkedIn" height="30"/></a>
+<a href="https://ruslanisakov.com/projects" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20with%20Works-gray?style=flat&logo=symfony&logoColor=white&link=https://ruslanisakov.com/projects" alt="Portfolio with Works" height="30"/></a>
+<a href="https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony_RU.pdf" target="_blank"><img src="https://img.shields.io/badge/CV%20(RU%20version)-ff0000?style=flat&logo=readdotcv&logoColor=white&link=https://ruslanisakov.com/files/Ruslan_Isakov_CV_PHP_Laravel_Symfony_RU.pdf" alt="CV (RU version)" height="30"/></a>
 <br><br>
 
 
